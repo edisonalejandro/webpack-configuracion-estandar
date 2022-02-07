@@ -1,0 +1,11 @@
+
+
+html, body {
+    margin: 0;
+    font-family: verdana, arial, helvetica;
+    background-color: red !important;
+}
+
+img {
+    height: 200px;
+}
